@@ -1,3 +1,5 @@
+<img src="assets/chimera_logo.png" alt="Chimera Emoji Logo" width="200"/>
+
 # Chimera
 Your personal file headed monster.
 
